@@ -5,6 +5,7 @@ slug: "how-to-optimize-website-for-ai-search"
 date: "2026-09-18"
 last_updated: "2026-09-18"
 author: "Anujkumar Yadav"
+license: "MIT"
 category: "SEO & Digital Marketing"
 tags:
   - AI Search
@@ -97,6 +98,7 @@ OpenAI similarly states that public websites can appear in ChatGPT Search and re
 31. [30. What "AI-Friendly" Content Actually Means](#30-what-ai-friendly-content-actually-means)
 32. [The Core Strategy](#the-core-strategy)
 33. [Sources](#sources)
+34. [License](#license)
 
 ---
 
@@ -1089,3 +1091,10 @@ That is the true foundation of modern **SEO, AEO, Entity SEO, and Generative Eng
 9. [OpenAI: Publishers and Developers FAQ](https://help.openai.com/en/articles/12627856) — Instructions on crawler management, `OAI-SearchBot`, and ChatGPT Search citation behavior.
 10. [Bing Webmaster Tools: AI Performance Report](https://www.bing.com/webmasters/help/ai-performance-9f8e7d6c) — Guidelines on measuring page citations in Microsoft Copilot and Bing AI answers.
 11. [Bing Webmaster Tools: Search Performance](https://www.bing.com/webmasters/help/search-performance-c680da36) — Core reporting metrics for search impression and click data.
+
+---
+
+## License
+
+This project and comprehensive guide are open-source and licensed under the [MIT License](LICENSE).  
+Copyright (c) 2026 Anujkumar Yadav.
